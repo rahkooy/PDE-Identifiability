@@ -10,5 +10,5 @@ The following packages are required in Maple:
 - LinearAlgebra
 - PDETools
 - RandomTools
-- [ComputeIdentifiableFunctions.mpl from  Gleb Pogudin's Github repository [AllIdentifiableFunctions](https://github.com/pogudingleb/AllIdentifiableFunctions) is required for LV-Single-Output-NormalForm.mpl
+- ComputeIdentifiableFunctions.mpl from  Gleb Pogudin's Github repository [AllIdentifiableFunctions](https://github.com/pogudingleb/AllIdentifiableFunctions) is required for LV-Single-Output-NormalForm.mpl
 
