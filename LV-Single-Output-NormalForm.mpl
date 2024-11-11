@@ -13,6 +13,9 @@ with(VectorCalculus):
 with(LinearAlgebra):
 with(PDETools):
 with(RandomTools):
+
+# NOTE. The below package must be downloaded from https://github.com/pogudingleb/AllIdentifiableFunctions 
+# and must be in the same directory as this file (otherwise modify the path accordingly)
 read "ComputeIdentifiableFunctions.mpl":
 
 
