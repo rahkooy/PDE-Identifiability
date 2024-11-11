@@ -1,6 +1,6 @@
 # Algebraic identifiability of partial differential equation models 
 
-This repository includes implementation of the algorithms in the paper "[Algebraic identifiability of partial differential
+This repository includes Maple implementation of the algorithms in the paper "[Algebraic identifiability of partial differential
 equation models](https://arxiv.org/abs/2402.04241)". 
 
 ## Requirements
